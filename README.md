@@ -1,2 +1,1 @@
-# quasela
-aaa
+# offline1-ativador-ios
